@@ -34,7 +34,7 @@
 
 ---
    
-##Credits
+##  Credits
 
     ASCII donut core by Andy Sloane
 
